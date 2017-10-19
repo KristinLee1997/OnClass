@@ -9,9 +9,10 @@ import java.util.Scanner;
  * Created by Administrator on 2017/6/18.
  * --------------·¢ËÍ¶Ë³ÌÐò----------------
  */
+
 public class MyClient {
     public static void main(String[] args) {
-        try {
+       /* try {
             client();
         } catch (IOException e) {
             e.printStackTrace();
@@ -26,6 +27,6 @@ public class MyClient {
             writer.println(scan.nextLine());
         }
         scan.close();
-        socket.close();
+        socket.close();*/
     }
 }

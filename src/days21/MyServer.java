@@ -10,9 +10,10 @@ import java.net.Socket;
  * Created by Administrator on 2017/6/18.
  * ---------------Ω” ’∂À≥Ã–Ú---------------
  */
+
 public class MyServer {
     public static void main(String[] args) {
-        try {
+        /*try {
             server();
         } catch (IOException e) {
             e.printStackTrace();
@@ -35,7 +36,7 @@ public class MyServer {
         }
         bf.close();
         socket.close();
-        server.close();
+        server.close();*/
     }
 }
 
